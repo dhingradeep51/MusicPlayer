@@ -60,7 +60,14 @@ let songs=[
         path:"music/Song8.mp3",
         image:"images/image8.jpg",
         singer:"Akhil Sachdeva"
+    },
+    {
+        name:"Safar",
+        path:"music/Song9.mp3",
+        image:"images/image9.jpg",
+        singer:"Aditya Yadav"
     }
+]
 ]
 function loadtrack(index){
     track.src=songs[index].path
