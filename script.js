@@ -68,7 +68,6 @@ let songs=[
         singer:"Aditya Yadav"
     }
 ]
-]
 function loadtrack(index){
     track.src=songs[index].path
     songName.innerHTML=songs[index].name
