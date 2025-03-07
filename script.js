@@ -1,4 +1,4 @@
-let songName=document.querySelector("#song-name")
+8let songName=document.querySelector("#song-name")
 let songSinger=document.querySelector("#song-singer")
 let songImage=document.querySelector(".song-img")
 let playPauseimg=document.querySelector("#playpause")
@@ -66,6 +66,12 @@ let songs=[
         path:"music/Song9.mp3",
         image:"images/image9.jpg",
         singer:"Aditya Yadav"
+    },
+    {
+        name:"Tell Me",
+        path:"music/Song10.mp3",
+        image:"images/image10.jpg",
+        singer:"Karan Aujla"
     }
 ]
 function loadtrack(index){
