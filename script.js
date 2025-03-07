@@ -1,4 +1,4 @@
-8let songName=document.querySelector("#song-name")
+let songName=document.querySelector("#song-name")
 let songSinger=document.querySelector("#song-singer")
 let songImage=document.querySelector(".song-img")
 let playPauseimg=document.querySelector("#playpause")
