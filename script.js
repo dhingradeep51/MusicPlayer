@@ -70,7 +70,7 @@ let songs=[
     {
         name:"Tell Me",
         path:"music/Song10.mp3",
-        image:"images/image10.jpg",
+        image:"images/image10.jpeg",
         singer:"Karan Aujla"
     }
 ]
